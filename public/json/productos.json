@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "nombre": "Leaf",
+        "tamano": "200x180",
+        "precio": 75,
+        "stock": 3,
+        "img": "large-leaf.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Bender",
+        "tamano": "300x200",
+        "precio": 85,
+        "img": "large-bender.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Fruit",
+        "tamano": "180x180",
+        "precio": 70,
+        "img": "large-fruit.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Berserk",
+        "tamano": "175x175",
+        "precio": 80,
+        "img": "large-berserk.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Mandalorian",
+        "tamano": "175x130",
+        "precio": 70,
+        "img": "large-mando.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Sunflower",
+        "tamano": "180x180",
+        "precio": 70,
+        "img": "large-sun.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Trunks",
+        "tamano": "200x180",
+        "precio": 75,
+        "img": "large-trunks.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Sunflower Blue",
+        "tamano": "110x110",
+        "precio": 60,
+        "img": "medium-B-sun.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Vaoporwave",
+        "tamano": "110x90",
+        "precio": 55,
+        "img": "medium-art.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Batman",
+        "tamano": "125x90",
+        "precio": 55,
+        "img": "medium-batman.jpg"
+    }
+]
